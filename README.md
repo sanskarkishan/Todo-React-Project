@@ -4,5 +4,7 @@ Welcome to the React Todo Website project! This application is a simple yet powe
 
 # Key Features
 Bun: Utilized for its high-performance JavaScript runtime, ensuring rapid development and execution.
+
 Vite: Leveraged for its optimized build and development process, providing a seamless and efficient workflow.
+
 Netlify: Enabled smooth deployment with continuous integration and delivery, streamlining the launch process.
